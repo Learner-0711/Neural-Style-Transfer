@@ -5,10 +5,15 @@ A sleek desktop application that merges the content of one image with the artist
 ✨ Key Features
 
 📁 Upload both Content and Style images through a simple file browser
+
 🧠 Leverages VGG19 pretrained model for extracting image features
+
 🎨 Blends content and style to create a unique stylized output
+
 📷 View Content, Style, and Output images directly within the application
+
 🚀 Automatically utilizes GPU (if available), otherwise defaults to CPU
+
 💾 Final result is saved in the /outputs directory
 
 ## 🚀 Getting Started
